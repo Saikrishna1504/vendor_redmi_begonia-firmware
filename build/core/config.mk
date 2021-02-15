@@ -1,0 +1,1 @@
+-include vendor/redmi/begonia-firmware/config.mk
